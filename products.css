@@ -1,0 +1,55 @@
+.navbar-brand{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: auto;
+}
+.form-control{
+    width: auto;
+    margin-left: auto;
+}
+.navbar{
+    border-radius: 10px;
+    margin: 10px;
+}
+body{
+    background-image: url(./James\ Gordon.png);
+    background-size: contain;
+}
+
+html, body{
+    height: 100%;
+}
+
+#container{
+    min-height: 100%;
+}
+
+#main{
+    overflow: auto;
+    padding-bottom: 50px;
+}
+
+#footer{
+    background-color: black;
+    position: relative;
+    height: 70px;
+    margin-top: -50px;
+    clear: both;
+    color: white;
+    padding-top: 25px;
+    border-radius: 10px;
+    margin: 10px;
+}
+h1{
+    padding-left: 45%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.carousel-item{
+    padding: 10px 16px;
+}
+.name1{
+    font-size: 37px;
+    padding-left: 40%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
